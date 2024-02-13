@@ -32,7 +32,6 @@ body * {
     position: absolute;
     left: 47%;
     top: 40%;
-    transition: 0.09s;
 
     width: 150px;
     height: 50px;
