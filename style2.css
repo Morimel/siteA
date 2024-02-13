@@ -1,0 +1,15 @@
+h1 {
+    position: absolute;
+    left: 60%;
+    top: 17%;
+}
+
+
+.flower {
+    position: absolute;
+    left: 60%;
+    top: 40%;
+
+    width: 50%;
+    height: 100%;
+}
